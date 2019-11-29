@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home24</string>
+    <string name="str_start">START</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
