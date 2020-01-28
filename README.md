@@ -33,7 +33,6 @@ Retrofit,gson,Room,Recyclerview etc
 3rd party Libraries not Used.
 
 
-********** Thanks for letting me to take part in this test. I was glad i could take it. **********
 
 
 
